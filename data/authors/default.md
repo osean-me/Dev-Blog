@@ -1,16 +1,31 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: 심성헌 (SeongHeon Sim)
+avatar: /static/images/profile.jpg
+occupation: Backend Engineer
+email: deep@osean.me
+github: https://github.com/osean-me
+linkedin: https://www.linkedin.com/in/seongheonsim
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+## ■ 꾸준함을 바탕으로 한계를 돌파합니다.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+> 저는 자신의 **`한계를 돌파`** 하기 위해 **`꾸준히`** 달립니다. 긴 호흡으로 오랫동안 달리기 위해서는 자신의 한계를 정확히 파악하고 돌파하기 위한 적절한 계획을 세운 뒤 실천하는 것이 중요합니다. 이러한 성격은 넘어졌을 때 다시 일어설 수 있는 **`추진력`** 이 되어 앞으로 나아갈 수 있다고 믿습니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+---
+
+## ■ 좋은 소프트웨어를 위해 깊게 고민하고 함께 개발합니다.
+
+> 서비스가 고객들에게 사랑받을 수 있는 이유 중 하나는 **`개발팀의 원활한 커뮤니케이션과 깊은 고민이 담긴 탄탄하면서 견고한 코드`** 가 서비스를 뒷받침해주기 때문이라고 생각합니다.
+> 이러한 가치관 덕분에 단순한 도메인 비즈니스 로직을 개발하더라도 추후에 발생할 수 있는 사이드 이펙트나 유지보수의 용이성, 코드의 의존성과 계층별 결합도 등 여러 방면으로 충분히 고민한 결과를 바탕으로 개발하며, 주석을 다는 습관을 통해 다른 팀원들이 빠르게 코드를 이해할 수 있도록 노력합니다.
+
+---
+
+## ■ 도전과 실패의 경험은 중요한 가치라고 여깁니다.
+
+> 저는 팀이 성장해 앞으로 나아갈 수 있는 힘은 **`끊임없는 도전`** 과 그로 인해 겪는 **`실패의 경험`** 으로부터 나온다고 믿습니다.
+> 그러한 이유로 **`새로운 기술에 대해 관심`** 이 많으며, 어떻게 팀과 서비스에 도입할 수 있을까 고민합니다. 또한, 이를 바탕으로 새로운 기술을 사용해보는 것에 대해 **`두려움`** 없이 부딪혀 봅니다.
+> 그렇기에 저의 **`도전과 실패를 마주하는 자세`** 는 팀의 성장과 발전에 좋은 밑거름이 될 수 있다고 생각합니다.
+
+---
+
+### 더 자세한 제 이야기는 [여기서](https://resume.osean.me) 확인해주세요. 방문해 주셔서 감사합니다. 🙂
