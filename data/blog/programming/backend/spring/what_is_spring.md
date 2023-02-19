@@ -1,9 +1,9 @@
 ---
-title: 'What is Spring Framework?'
+title: 'Spring Framework'
 date: '2020-08-02'
 tags: ['Spring', 'Spring MVC', 'Spring Framework']
 draft: false
-summary: '수업 시간에 배웠던 내용, 책에서 나왔던 내용, 여러 블로그에서 말하는 내용들을 Notion 에 개인적으로 정리해두었지만, 복습 겸 블로그에도 작성하면 좋을 것 같아 몇 자 적어보려고 한다.'
+summary: 'Spring Framework 의 철학과 특징에 대해 학습한 내용을 정리 했습니다.'
 ---
 
 ![Spring Framework](https://spring.io/img/spring-2.svg)

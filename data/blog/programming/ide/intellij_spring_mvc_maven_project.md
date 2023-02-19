@@ -3,7 +3,7 @@ title: '[IntelliJ] Create Spring MVC + Maven Project'
 date: '2020-07-26'
 tags: ['IntelliJ', 'Spring MVC', 'Maven', 'Oracle']
 draft: false
-summary: '스프링 MVC + Maven 프로젝트를 만들었는지 기록 할 겸, 나 같이 완전 초보자가 정보 유목민 생활을 청산할 수 있게 아주 작게나마 도움이 될 겸 해서 글을 적어보려고 한다.'
+summary: 'Eclipse 에서 IntelliJ 로 전환하는 중 마주친 문제를 해결하기 위한 과정을 정리 했습니다.'
 ---
 
 ![IntelliJ IDEA logo](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png)
