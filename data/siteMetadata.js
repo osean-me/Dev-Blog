@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: `dev.osean.me`,
+  title: `이사 중`,
   author: 'SeongHeon Sim',
-  headerTitle: `dev.osean.me`,
-  description: `개인적으로 학습한 내용과 느낀 점, 개발자로서의 삶 등을 기록합니다.`,
+  headerTitle: `블로그 이사 중`,
+  description: `개인적으로 학습한 내용과 느낀 점, 개발자로서의 삶 등을 기록합니다. 현재 티스토리에서 이사 진행 중 입니다.`,
   language: 'ko-KR',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://dev.osean.me',
+  siteUrl: 'https://blog.osean.me',
   siteRepo: 'https://github.com/osean-me/Dev-Blog',
   siteLogo: '/static/favicons/android-chrome-512x512.png',
   image: '/static/favicons/android-chrome-512x512.png',
@@ -18,7 +18,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'dev.osean.me', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'blog.osean.me', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
