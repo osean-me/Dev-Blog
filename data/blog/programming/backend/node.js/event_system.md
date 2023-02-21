@@ -1,7 +1,7 @@
 ---
 title: '이벤트 기반 시스템에 대해'
 date: '2020-09-26'
-tags: [' Node.js', 'Blocking', 'Non Blocking', 'Event']
+tags: ['Node.js', 'Blocking', 'Non Blocking', 'Event']
 draft: false
 summary: 'Node.js 의 이벤트 기반 시스템에 대해 학습하고 이해한 내용을 정리 했습니다.'
 ---

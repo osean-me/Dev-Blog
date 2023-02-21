@@ -1,7 +1,7 @@
 ---
 title: 'Single Thread'
 date: '2020-09-27'
-tags: [' Node.js', 'Singe Thread', 'Multi Thread', 'Thread']
+tags: ['Node.js', 'Singe Thread', 'Multi Thread', 'Thread']
 draft: false
 summary: 'Node.js 는 왜 Single Thread 를 기반으로 했는지 학습하고 이에 대해 이해한 내용을 정리 했습니다.'
 ---
@@ -46,7 +46,7 @@ Node.js 공부를 시작한 지 3일 차이다. 앞서 공부한 비동기 논 �
 
 하지만 앞서 공부한 Web API(Ajax, 브라우저 - 백그라운드와 태스크 큐)와 함께 일한다면 이야기는 조금 달라질 것이다.
 
-이렇게 단편적으로 스레드에 이야기하면 ***스레드는 무조건 많은 게 좋은 거 아니야?라고*** 생각하기 쉽다.
+이렇게 단편적으로 스레드에 이야기하면 **_스레드는 무조건 많은 게 좋은 거 아니야?라고_** 생각하기 쉽다.
 
 하지만 **과유불급**이라는 말처럼 많다고 무조건 좋거나 적다고 좋지 않은 게 아니다.
 

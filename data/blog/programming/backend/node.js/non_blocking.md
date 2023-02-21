@@ -1,7 +1,7 @@
 ---
 title: '비동기 논 블로킹 I/O 모델에 대해'
 date: '2020-09-26'
-tags: [' Node.js', 'Blocking', 'Non Blocking']
+tags: ['Node.js', 'Blocking', 'Non Blocking']
 draft: false
 summary: 'Node.js 의 비동기 처리에 대해서 학습한 내용을 정리 했습니다.'
 ---
