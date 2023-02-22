@@ -28,6 +28,4 @@ linkedin: https://www.linkedin.com/in/seongheonsim
 
 ---
 
-### 저에 대한 자세한 내용은 [여기서](https://resume.osean.me) 확인해주세요.
-
 ### 방문해 주셔서 감사합니다. 🙂
