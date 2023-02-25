@@ -83,11 +83,7 @@ N과 M의 이진수가 있다고 가정 했을 때, 두 이진수의 `i` 번째�
 
 ## 코드
 
-[1322\. X와 K
-
-문제링크 : https://www.acmicpc.net/problem/1322 - 소스 코드 - 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48..
-
-algwang.tistory.com](https://algwang.tistory.com/58)
+[참고 아티클](https://algwang.tistory.com/58)
 
 ```java
 package 심성헌.알고리즘_5주차.백준;
