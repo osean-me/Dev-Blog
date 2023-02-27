@@ -15,8 +15,14 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
   // If initialDisplayPosts exist, display it if no searchValue is specified
   const displayPosts =
     initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts
-  const postPath = title === 'All Posts' ? '' : title.toLowerCase()
-  const paginationPath = title === 'All Posts' ? 'blog' : title.toLowerCase()
+  const lowerCaseTitle = title.toLowerCase()
+  const postPath =
+    lowerCaseTitle === 'all posts'
+      ? ''
+      : lowerCaseTitle === 'programming' || lowerCaseTitle === 'life'
+      ? lowerCaseTitle
+      : ''
+  const paginationPath = lowerCaseTitle === 'all posts' ? 'blog' : lowerCaseTitle
 
   return (
     <>
