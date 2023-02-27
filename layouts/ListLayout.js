@@ -15,7 +15,8 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
   // If initialDisplayPosts exist, display it if no searchValue is specified
   const displayPosts =
     initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts
-  const mainTitle = title === 'All Posts' ? 'blog' : title.toLowerCase()
+  const postPath = title === 'All Posts' ? '' : title.toLowerCase()
+  const paginationPath = title === 'All Posts' ? 'blog' : title.toLowerCase()
 
   return (
     <>
@@ -65,7 +66,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                     <div>
                       <h3 className="text-2xl font-bold leading-8 tracking-tight">
                         <Link
-                          href={`/blog/${mainTitle}/${slug}`}
+                          href={`/blog/${postPath}/${slug}`}
                           className="text-gray-900 dark:text-gray-100"
                         >
                           {title}
@@ -91,7 +92,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
         <Pagination
           currentPage={pagination.currentPage}
           totalPages={pagination.totalPages}
-          path={mainTitle}
+          path={paginationPath}
         />
       )}
     </>
