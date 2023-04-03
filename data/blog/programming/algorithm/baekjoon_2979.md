@@ -20,6 +20,8 @@ summary: '백준 2979 문제 해결 방법을 공유합니다.'
 
 ## 풀이
 
+[제출한 코드](https://www.acmicpc.net/source/58302172)
+
 ```cpp
 #include <bits/stdc++.h>
 

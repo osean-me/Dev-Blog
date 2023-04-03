@@ -18,6 +18,8 @@ summary: '백준 2309 문제 해결 방법을 공유합니다.'
 
 ## 풀이
 
+[제출한 코드](https://www.acmicpc.net/source/57563114)
+
 ```cpp
 #include <bits/stdc++.h>
 
