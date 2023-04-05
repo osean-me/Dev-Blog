@@ -26,7 +26,7 @@ summary: '백준 11655 문제 해결 방법을 공유합니다.'
 
 ## 풀이
 
-[제출한 코드](https://www.acmicpc.net/source/58675963)
+[제출한 코드](http://boj.kr/da818899ba624e38b7244553d3780be8)
 
 ```cpp
 using namespace std;

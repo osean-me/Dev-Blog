@@ -26,7 +26,7 @@ summary: '백준 9996 문제 해결 방법을 공유합니다.'
 
 ## 풀이
 
-### [실패한 코드](https://www.acmicpc.net/source/58681474)
+### [실패한 코드](http://boj.kr/bc47118c9e5145f4a7df020da4213eeb)
 
 #### 아이디어
 
@@ -77,7 +77,7 @@ int main() {
 }
 ```
 
-### [해결 코드](https://www.acmicpc.net/source/58750916)
+### [해결 코드](http://boj.kr/e1f91ae6b9014dcabe9f7340644f29c4)
 
 #### 아이디어
 
