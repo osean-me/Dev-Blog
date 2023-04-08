@@ -256,3 +256,7 @@ class CreateBingoApiTest(...): BehaviorSpec({...})
 <p align="center">
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcXh1uG%2Fbtr8MoMgIzh%2F0pw0HdwX3juMwbj8YakCZk%2Fimg.png" alt="text" width="number" />
 </p>
+
+---
+
+(참고 문서)[https://docs.spring.io/spring-security/site/docs/5.2.0.RELEASE/reference/html/test.html]
