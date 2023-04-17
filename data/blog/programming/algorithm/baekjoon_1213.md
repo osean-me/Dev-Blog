@@ -6,6 +6,8 @@ draft: false
 summary: '백준 9375 문제 해결 방법을 공유합니다.'
 ---
 
+## 문제
+
 [백준 1213](https://www.acmicpc.net/problem/1213)
 
 > 임한수와 임문빈은 서로 사랑하는 사이이다.
